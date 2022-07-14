@@ -1,0 +1,3 @@
+[submodule "srigha"]
+	path = srigha
+	url = https://github.com/Nithisai/srigha.git
